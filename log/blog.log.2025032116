@@ -1,0 +1,2 @@
+time="2025-03-21 16:04:48.451" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="/opt/code/lotusnilblog/database/db_connection.go:49"
+time="2025-03-21 16:09:30.887" level=info msg="connect to mysql db blog" func=blog/database.createMysqlDB file="/opt/code/lotusnilblog/database/db_connection.go:49"
